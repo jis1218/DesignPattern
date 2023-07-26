@@ -27,5 +27,7 @@ public class Main {
                 return handlerAdapter;
             }
         }
+
+        return null;
     }
 }
